@@ -4,21 +4,25 @@ _italico_
 
 ###Ingradientes
  - 1 quilo de peito de frango sem pele
- - 1 tablete de caldo de galinha
- - 3 colheres de sopa de oleo
- - 2 latas de creme de leite sem soro
- - 2 colheres de sopa de molho de tomate
- - 2 colheres de sopa de ketchup
+ - 3 colheres de sopa de azeite
+ - 1 latas de creme de leite sem soro
+ - 1 Extrato de tomate
+ - coentro a gosto
+ - sal a gosto
  - 2 colheres de sopa de mostarda
  - Champignon
+ - páprica defumada, lemon pepper
  - Batata palha e arroz branco para acompanhar
+ - cebola picada
+ - tomate picado
+ - pimentao picado
 
 ###Modo de Preparo
 
-1. Em uma panela a fogo medio, acrescente o oleo e o caldo de galinha e dissolva o caldo. Logo em 
-seguida coloque o frango picado em cubos na panela e deixe cozinhar, sempre dando uma olhadinha 
+1. Em uma panela a fogo medio, acrescente o azeite cebola, alho, pimentao, tomate e refogue. Logo em 
+seguida coloque o frango picado em cubos na panela, água e deixe cozinhar, sempre dando uma olhadinha 
 para nao queimar
-2. Assim que o frango estiver bem cozido, acrescente o molho de tomate, o ketchup, a mostarda e 
+2. Assim que o frango estiver bem cozido, acrescente o molho de tomate, páprica defumada lemon papper, sal,  mostarda e 
 champignon a gosto
 3. Abaixe o fogo e coloque o creme de leite e mexa bem ate se tornar um creme homogeneo
 4. Esta pronto para servir
